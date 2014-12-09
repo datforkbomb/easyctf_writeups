@@ -2,9 +2,15 @@
 
 Golden Ratio Obsession was a 75 point problem in EasyCTF.
 
-Problem: Find the Number of Digits in the 16th Fibonacci Number that Contains 1618 and is Divisible by 1618.
+# Problem
 
-Hint: Use your knowledge from the previous basic python problems! (You are not, however, limited to python for this problem - you can compute the answer in any language you'd like.)
+Find the Number of Digits in the 16th Fibonacci Number that Contains 1618 and is Divisible by 1618.
+
+# Hint
+
+Use your knowledge from the previous basic python problems! (You are not, however, limited to python for this problem - you can compute the answer in any language you'd like.)
+
+# Solution
 
 There are only four conditions:  the *16th* Fibonacci number that *Contains 1618*, and *is Divisible by 1618*.  We only need 1 variable, and that's the counter, to indicate that we have reached the 16th Fibonacci number that is divisible by 1618 and contains 1618.
 
