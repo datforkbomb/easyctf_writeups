@@ -1,7 +1,7 @@
 # 75 - Golden Ratio Obsession
 
 Golden Ratio Obsession was a 75 point problem in EasyCTF.
-
+ 
 ## Problem
 
 Find the Number of Digits in the 16th Fibonacci Number that Contains 1618 and is Divisible by 1618.
