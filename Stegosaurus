@@ -1,0 +1,16 @@
+# 120 - Fast Math
+
+Stegosaurus was a 60 point problem in EasyCTF.
+
+## Problem
+
+Try your hand at some stego.
+
+## Hint
+
+Open up the problem in a hex editor and take a look around.
+
+## Solution
+
+Literally do what the hint tells you... Open the image in a hex editor, and scroll down to the bottom of the image. 
+We find that the flag is h3x_1s_c001.  
