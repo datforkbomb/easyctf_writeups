@@ -16,7 +16,7 @@ There are only three conditions:  the *16th* Fibonacci number that *Contains 161
 
 Lets call the counter "i". 
 
-Writing the simple but *very* inefficient script: 
+Writing the short but *very* inefficient script: 
 
     i = 0
     a,b = 0,1
@@ -29,8 +29,26 @@ Writing the simple but *very* inefficient script:
             print(len(str(a)))
 
 
-The concept of this program is very simple:  run the Fibonacci sequence while incrementing the counter every time that the number contains 1618 and is divisible by 1618, and finally stopping when the counter reaches 16.
+The purpose of this program is simple:  run the Fibonacci sequence while incrementing and outputting the counter every time that the number contains 1618 and is divisible by 1618, and finally stopping when the counter reaches 16 (At 16, the program will print the length of the Fibonacci number, not the counter length.)
 
-Waiting a while,  we find that the flag to this problem is "7092."
+     Output:
+           1
+           2
+           3
+           4
+           5
+           6
+           7
+           8
+           9
+           10
+           11
+           12
+           13
+           14
+           15
+           7092 #This is the flag.
 
-        
+After waiting a while,  we find that the number of digits in the 16th Fibonacci number that meets all of the problem's requirements (and the flag) to this problem is "7092".
+
+
