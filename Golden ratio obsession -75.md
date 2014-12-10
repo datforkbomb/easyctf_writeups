@@ -12,7 +12,7 @@ Use your knowledge from the previous basic python problems! (You are not, howeve
 
 ## Solution
 
-There are only four conditions:  the *16th* Fibonacci number that *Contains 1618*, and *is Divisible by 1618*.  We only need 1 variable, and that's the counter, to indicate that we have reached the 16th Fibonacci number that is divisible by 1618 and contains 1618.
+There are only three conditions:  the *16th* Fibonacci number that *Contains 1618*, and *is Divisible by 1618*.  We only need 1 variable, and that's the counter, to indicate that we have reached the 16th Fibonacci number that is divisible by 1618 and contains 1618.
 
 Lets call the counter "i". 
 
