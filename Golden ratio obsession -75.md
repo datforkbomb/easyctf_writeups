@@ -1,5 +1,7 @@
 # 75 - Golden Ratio Obsession
 
+*Written by Philip Wang (datforkbomb)
+
 Golden Ratio Obsession was a 75 point problem in EasyCTF.
  
 ## Problem
